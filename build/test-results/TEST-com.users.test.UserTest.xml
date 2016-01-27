@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.users.test.UserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-01-27T18:37:37" hostname="Manigandans-MacBook-Pro-2.local" time="0.001">
+  <properties/>
+  <testcase name="canConstructAPersonWithAName" classname="com.users.test.UserTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
